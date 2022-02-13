@@ -6,13 +6,21 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
 		<style>
-		body {background-color:white;}
-		h1 {color:black;}
+		body {background-color:grey;}
+		.main {color:white; font-family:"Yu Gothic UI"; text-align:center;}
+		<!--h1 {color:white; font-family:"Yu Gothic UI"; text-align:center;}
+		h2 {color:white; font-family:"Yu Gothic UI"; text-align:center;}
+		p {color:white; font-family:"Yu Gothic UI"; text-align:center;}
+		a {color:white; font-family:"Yu Gothic UI"; text-align:center;}!-->
 		</style>
 
 	</HEAD>
 	<BODY>
-		<h1>Webbed site</h1>
+		<div class="main">
+		<h1>Webbed Site</h1>
 		<p> Here is my webbed site</p>
+		<h2>Links</h2>
+		<a href="https://twitter.com/Frogdefrog">Twitter</a>
+		</div>
 	</BODY>
 </HTML>
