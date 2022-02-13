@@ -6,8 +6,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
 		<style>
-		body {background-color:grey;}
-		h1 {color:white;}
+		body {background-color:white;}
+		h1 {color:black;}
 		</style>
 
 	</HEAD>
