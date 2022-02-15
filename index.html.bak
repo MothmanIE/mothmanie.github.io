@@ -8,10 +8,6 @@
 		<style>
 		body {background-color:grey;}
 		.main {color:white; font-family:"Yu Gothic UI"; text-align:center;}
-		<!--h1 {color:white; font-family:"Yu Gothic UI"; text-align:center;}
-		h2 {color:white; font-family:"Yu Gothic UI"; text-align:center;}
-		p {color:white; font-family:"Yu Gothic UI"; text-align:center;}
-		a {color:white; font-family:"Yu Gothic UI"; text-align:center;}!-->
 		</style>
 
 	</HEAD>
