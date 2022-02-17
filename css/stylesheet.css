@@ -1,0 +1,10 @@
+/* Colour Palette: (#8f8073 - Brown) (#eae6e5 - Grey) (#8fcb9b - Lgreen) (#5b9279 - Dgreen) (#12130f - Black) */
+body {
+	background-color:#8f8073;
+	color:white; font-family:"Yu Gothic UI"; text-align:center;
+	}
+	
+.main {
+	color:#12130f; font-family:"Yu Gothic UI"; text-align:center;
+	background-color:#EAE6E5;
+	}
