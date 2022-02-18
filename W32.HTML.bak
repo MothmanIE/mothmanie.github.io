@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>External script</title>
+	<!-- <script type="text/javascript" src="js\externalscript.js"></script> !-->
+	<link rel="stylesheet" type="text/css" href="css\stylesheet.css">
+	<p id="textcolour">This text changes colour when you move the mouse 
+over it. This paragraph is called textcolour</p>
+</head>
+<body>
+	<h1 id="mymodule"></h1>
+	<p onmouseover="style.color='#8fcb9b'"
+	onmouseout="style.color='white'">Move your cursor over this text</p>
+	<script src="js\mousemove.js"></script>
+</body>
+</html>

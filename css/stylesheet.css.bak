@@ -4,8 +4,12 @@ body {
 	color:white; font-family:"Yu Gothic UI"; text-align:center;
 	}
 	
-.main {
-	color:#12130f; font-family:"Yu Gothic UI"; text-align:center;
-	border-radius: 5%;
+div {
+	padding:1% 1% 1% 1%;
+	/* Padding for divs */
+	color:white; font-family:"Yu Gothic UI"; text-align:center;
 	background-color:#EAE6E5;
+	/*  */
+	margin-bottom:5%
+	/* Margin for space between divs */
 	}
