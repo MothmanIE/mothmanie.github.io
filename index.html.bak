@@ -1,20 +1,4 @@
 <!DOCTYPE HTML>
-<HTML>
-	<HEAD>
-		<title>MothmanIE</title>
-		<meta name="author" content="Jack Campbell">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		
-		<link rel="stylesheet" href="/CSS/stylesheet.css">
+<html lang="en">
 
-	</HEAD>
-	<BODY>
-		<div class="main">
-		<h1>Webbed Site</h1>
-		<p> Here is my webbed site.<br>I do hope you like it.</p>
-		<h2>Links</h2>
-		<a href="w3.html">Javascript practice</a>
-		<a href="https://twitter.com/Frogdefrog">Twitter</a>
-		</div>
-	</BODY>
-</HTML>
+<head>
