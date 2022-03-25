@@ -56,17 +56,17 @@
 		</div>
 		
 		<div class = "d-flex justify-content-around">
-					<div class="text-right" border>
+					<div class="text-right">
 						<!-- Score Appears here-->
 						<p class="text-light">Score: <em id="score">0</em></p>
 					</div>
 					
-					<div class="text-center border">
+					<div class="text-center">
 						<!-- County to find appears here -->
 						<p id="question" class="h2 text-light"></p>
 					</div>
 					
-					<div class="text-left border">
+					<div class="text-left">
 						<!-- Displays Current round -->
 						<p class="text-light"><em>Round: </em><em id="roundNumber">0</em><em>/15</em></p>
 				</div>
