@@ -65,7 +65,7 @@ IrMap = new ol.layer.Vector(
 		source: new ol.source.Vector(
 			{
 				format: new ol.format.GeoJSON(),
-				url: 'data/IrMap4.geojson',
+				url: 'https://mothmanie.github.io/IrMap4.geojson',
 			}
 		),
 	title: 'Ireland Map',
